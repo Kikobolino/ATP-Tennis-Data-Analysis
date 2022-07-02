@@ -7,19 +7,19 @@ Please visit his [Github Profile](https://github.com/JeffSackmann) to check out 
 
 ## Introduction
 
-The Analysis looks into the ATP Tennis Data for the years 2002 to 2022 (as at 06.06.22)
+The Analysis looks into the ATP Tennis Data for the years 2002 to 2022 (as at 06.06.22) <br>
 Using this data I performed tasks to explore relationships, visualize geographic data, perform basic supervised and unsupervised machine learning.
 
 ## Key Questions and Objectives
 
-Who is the most successful player on the ATP Tour in the last 20 years?
-How many countries of the world have hosted ATP tournaments?
-Which country has collected the most titles?
-Which other factors contribute to successful performances?
+* Who is the most successful player on the ATP Tour in the last 20 years?
+* How many countries of the world have hosted ATP tournaments?
+* Which country has collected the most titles?
+* Which other factors contribute to successful performances?
 
 ## Results and Visualizations
 
-For the final visualization please see my presentation on [Tableau](https://public.tableau.com/app/profile/christoph.sch.neseiffen/viz/ATPTennisDataAnalysis/ATPCountries?publish=yes).
+For the final visualization please see my dashboard on [Tableau](https://public.tableau.com/app/profile/christoph.sch.neseiffen/viz/ATPTennisDataAnalysis/ATPCountries?publish=yes).
 
 ## Resources
 For the resources used please see the folder 01_Source Data or visit [Jeff Sackmanns GitHub](https://github.com/JeffSackmann)
