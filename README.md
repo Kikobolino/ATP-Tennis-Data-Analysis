@@ -1,9 +1,9 @@
 # ATP Tennis Data
 
 ## Acknowledgement
-The data used for this analysis has been taken from the github profile of Jeff Sackmann who has collected a massive amount of data on tennis.
+The data used for this analysis has been taken from the [github profile of Jeff Sackmann](https://github.com/JeffSackmann) who has collected a massive amount of data on tennis.
 
-Please visit his Github Profile to check out his repos!
+Please visit his [Github Profile](https://github.com/JeffSackmann) to check out his repos!
 
 ## Introduction
 
@@ -22,5 +22,5 @@ Which other factors contribute to successful performances?
 For the final visualization please see my presentation on [Tableau](https://public.tableau.com/app/profile/christoph.sch.neseiffen/viz/ATPTennisDataAnalysis/ATPCountries?publish=yes).
 
 ## Resources
-For the resources used please see the folder 01_Source Data or visit Jeff Sackmanns GitHub
-For the time series analysis I used data provided by the DTB (Deutscher Tennis Bund) on their member counts from 1948 to 2021.
+For the resources used please see the folder 01_Source Data or visit [Jeff Sackmanns GitHub](https://github.com/JeffSackmann)
+For the time series analysis I used data provided by the [DTB (Deutscher Tennis Bund)](https://www.dtb-tennis.de/content/download/27933/277039/version/1/file/Mitgliederentwicklung+seit+1948.pdf) on their member counts from 1948 to 2021.
